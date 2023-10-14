@@ -1,0 +1,32 @@
+p {
+			color:purple;
+			font-size: 45px;
+			margin:100px 0; 
+			background-color: #793FDF;
+
+		}
+		h2{
+			font-size: 60px;
+			background-color: #991031;
+		}
+		h1 {
+			color: #22A699;
+			font-size: 60px; 
+			background-color: #fff402;
+		}
+		a {
+			text-decoration: none;
+			font-size: 75px;
+			color: #F29727;
+		}
+		div {
+			box-shadow: 0 0 10px rgba(0,0,0,0.2)
+			width: 100%;
+			background-color: #08886f; 
+			
+		}
+		img {
+             max-width: 50%;
+             height: auto;
+             display: block;
+		}
